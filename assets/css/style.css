@@ -3,3 +3,13 @@
   background: #006bed;
 }
 
+.portfolio-block.block-intro .avatar {
+  width: 175px;
+  height: 176px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: auto;
+  border-radius: 100px;
+  margin-bottom: 30px;
+}
+
